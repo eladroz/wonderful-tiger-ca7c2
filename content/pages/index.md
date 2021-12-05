@@ -50,15 +50,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - elements:
-      - delayBefore: 0
-        text: 'This is a text. '
-        lineBreak: false
-        type: TypistTextElement
-      - delayBefore: 1700
-        count: 5
-        type: TypistBackspaceElement
-    type: TypistSection
   - elementId: ''
     colors: colors-f
     title: Where did everyone go?
