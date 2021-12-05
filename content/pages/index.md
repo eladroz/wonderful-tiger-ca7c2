@@ -7,7 +7,7 @@ sections:
         text: 'This is a text. '
         lineBreak: false
         type: TypistTextElement
-      - delayBefore: 0
+      - delayBefore: 1700
         count: 1
         type: TypistBackspaceElement
     type: TypistSection
