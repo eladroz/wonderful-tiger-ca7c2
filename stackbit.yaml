@@ -35,7 +35,6 @@ contentModels:
     urlPath: '/blog/category/{slug}'
     newFilePath: 'blog/category/{slug}.md'
 modelsSource:
-
   type: files
   modelDirs:
     - .stackbit/models
