@@ -7,7 +7,6 @@ module.exports = {
         content: [
             './src/**/*.{js,ts,jsx,tsx}',
             './content/**/*',
-            './node_modules/stackbit-typist/dist/components/**/*.{js,ts,jsx,tsx}'
         ],
         safelist: ['colors-a', 'colors-b', 'colors-c', 'colors-d', 'colors-e', 'colors-f', 'colors-g', 'colors-h', 'colors-i']
     },
