@@ -1,5 +1,6 @@
 import dynamic from 'next/dynamic';
 import { ComponentType } from 'react';
+import typistComponents from 'stackbit-typist'; // Get component map from package
 
 /**
  * The getComponent() function loads a component using dynamic import.
