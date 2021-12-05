@@ -15,7 +15,6 @@ export default function ContactSection(props) {
     return (
         <div
             id={cssId}
-            {...getDataAttrs(props)}
             className={classNames(
                 'sb-component',
                 'sb-component-section',
