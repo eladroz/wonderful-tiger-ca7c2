@@ -13,7 +13,6 @@ export default function ContactSection(props) {
     const sectionStyles = props.styles?.self || {};
     const sectionBorderWidth = sectionStyles.borderWidth ? sectionStyles.borderWidth : 0;
     //            {...getDataAttrs(props)}
-
     return (
         <div
             id={cssId}
