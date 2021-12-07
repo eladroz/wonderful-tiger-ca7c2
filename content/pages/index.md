@@ -7,12 +7,25 @@ sections:
     colors: colors-a
     title: 'Love where you work, because work loves you'
     text: >
-      1.  One platform, one community, getting to the bottom line of everything
+      So here it is
+
+
+      One platform, one community, getting to the bottom line of everything
       employment.  Figure out your benefits, practice for interviews, get
       mentored, help peers, get helped in return.
 
 
-      2.  Hooray!
+      1.  Hooray!
+          1.  Don't
+
+          2.  Add
+
+          3.  More
+
+      2.  Nested
+
+
+      3.  Stuff
     actions:
       - type: Button
         label: Sign up
