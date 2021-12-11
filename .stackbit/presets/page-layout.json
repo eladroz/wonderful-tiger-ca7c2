@@ -3,7 +3,6 @@
     "presets": [
         {
             "label": "Blank",
-            "thumbnail": "images/page-landing.png",
             "data": {
                 "sections": []
             }
